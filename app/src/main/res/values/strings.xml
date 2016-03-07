@@ -1,0 +1,7 @@
+<resources>
+    <string name="application_name">Popular Movies</string>
+    <string name="movie_detail_title"></string>
+    <string name="sort_by_popularity">Sort By Popularity</string>
+    <string name="sort_by_rating">Sort By Ratings</string>
+    <string name="api_key"></string>
+</resources>
