@@ -10,6 +10,16 @@ public class MovieVO {
     String name, overview, imageUrl, releaseDate;
     final String BASE_URL = "http://image.tmdb.org/t/p/w342/";
     double rating;
+
+    public MovieVO(String id){
+        this.id = id;
+    }
+
+    public String getId() {
+        return id;
+    }
+
+    String id;
     String fullURL;
 
     public String getName() {

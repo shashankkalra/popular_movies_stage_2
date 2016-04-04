@@ -3,5 +3,12 @@
     <string name="movie_detail_title"></string>
     <string name="sort_by_popularity">Sort By Popularity</string>
     <string name="sort_by_rating">Sort By Ratings</string>
-    <string name="api_key"></string>
+    <string name="api_key">your_api_key</string>
+    <string name="watch_trailer"><u>Check out movie reviews</u></string>
+    <string name="movie_name_key">movie_name</string>
+    <string name="title_activity_review">ReviewActivity</string>
+    <string name="review">Review</string>
+    <string name="movie_id_key">id</string>
+    <string name="favourites">Favourites</string>
+    <string name="favQues">Is this movie one of your favourites ?</string>
 </resources>
